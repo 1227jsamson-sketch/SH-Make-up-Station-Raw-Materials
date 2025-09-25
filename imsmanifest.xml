@@ -60,7 +60,7 @@
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6OlpCUai8Pb_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6OlpCUai8Pb_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/6MSPl2gO9Wr_80_DX1440_DY1440.jpg" />
       <file href="mobile/6MSPl2gO9Wr_80_DX1440_DY1440_CX1079_CY607.jpg" />
@@ -647,6 +647,8 @@
       <file href="story_html5.html" />
       <file href="analytics-frame.html" />
       <file href="story_content/blank.html" />
+      <file href="launcher.html" />
+      <file href="story_content/orange_launch_normal.gif" />
       <file href="story_content/story.js" />
       <file href="index_lms.html" />
       <file href="index_lms_html5.html" />
